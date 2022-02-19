@@ -18,4 +18,8 @@ public class Test {
 	public void test4() {
 		System.out.println("Test1");
 	}
+	
+	public void test76() {
+		System.out.println("Test1");
+	}
 }
