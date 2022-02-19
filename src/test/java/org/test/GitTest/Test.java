@@ -19,7 +19,8 @@ public class Test {
 		System.out.println("Test1");
 	}
 	
-	public void test5() {
+	
+	public void test99() {
 		System.out.println("Test5");
 	}
 }
